@@ -7,11 +7,7 @@
 - ⚡ Fun fact: ...
 rafaiqzulfan@gmail.com
 
-pw: HAHA1029
-hackerd teramux
-end comback
-rinzz amanah
-band sis
+-⚙️ pw: HAHA1029
 <!---
 RINZZHAX/RINZZHAX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
